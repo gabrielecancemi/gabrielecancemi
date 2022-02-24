@@ -45,6 +45,5 @@ CQ==
 =0cgA
 
 <br/>
-<br/>
 -----END PGP PUBLIC KEY BLOCK-----
 
