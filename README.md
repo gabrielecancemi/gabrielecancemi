@@ -27,7 +27,7 @@
 
 [instagram]: https://instagram.com/gabri_canci
 
-<BR/>
+<br/>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEYhduIxYJKwYBBAHaRw8BAQdAHkpifKNQctH1GGtq5HKkw7UZDdtvLhCzGybM
