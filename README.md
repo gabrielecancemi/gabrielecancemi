@@ -27,6 +27,8 @@
 
 [instagram]: https://instagram.com/gabri_canci
 
+<br/>
+<br/>
 
 ### -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -41,6 +43,9 @@ BQJiF24jAhsMBQkDwl4NAAoJEDZ3asrK/Pdc1NQBAPjWchxlP587faCKfWbkYdmj
 VIQKwQQ+GEqz5exXbIamAQCGOjc9RAWKVg3rFEB+s0l9AkA/MqRczOuBlAieKqnW
 CQ==
 =0cgA
+
 <br/>
+<br/>
+
 -----END PGP PUBLIC KEY BLOCK-----
 
