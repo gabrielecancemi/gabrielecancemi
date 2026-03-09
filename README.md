@@ -3,8 +3,8 @@
 
 ## I'm a Student!!
 
-- 🔭 I have just created many html sites!
-- 🌱 I’m currently learning everything at school 🤣
+- 🔭 I have just created many programs!
+- 🌱 I’m currently studing management engineering at the "Politecnico di Torino"
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: Graduate in management engineering
 - ⚡ Fun fact: I love to cycling
